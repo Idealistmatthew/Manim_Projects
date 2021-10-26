@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/cs/Manim_Projects/Tutorial/Multiple_Graphs/media/videos/multiple_graphs/1080p60/partial_movie_files/PlotTwoGraphsAtOnce/450974505_1369501037_2235843313.mp4'
+file 'file:C:/cs/Manim_Projects/Tutorial/Multiple_Graphs/media/videos/multiple_graphs/1080p60/partial_movie_files/PlotTwoGraphsAtOnce/3968072068_701350180_940052865.mp4'
+file 'file:C:/cs/Manim_Projects/Tutorial/Multiple_Graphs/media/videos/multiple_graphs/1080p60/partial_movie_files/PlotTwoGraphsAtOnce/3968072068_311744375_1932217274.mp4'

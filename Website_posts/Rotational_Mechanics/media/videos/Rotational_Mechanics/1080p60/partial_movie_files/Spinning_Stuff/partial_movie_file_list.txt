@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/cs/Manim_Projects/Website_posts/Rotational_Mechanics/media/videos/Rotational_Mechanics/1080p60/partial_movie_files/Spinning_Stuff/1777108726_328167650_2147565953.mp4'
